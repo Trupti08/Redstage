@@ -1,0 +1,13 @@
+2018-10-25 15:30:26,954 INFO  [Log] Locator file is loaded 
+2018-10-25 15:30:27,104 INFO  [Log] Test data file is loaded 
+2018-10-25 15:30:27,125 INFO  [Log] Launching google chrome with new profile.. 
+2018-10-25 15:30:51,975 INFO  [Log] All cookies has been deleted 
+2018-10-25 15:30:52,019 INFO  [Log] Test has started 
+2018-10-25 15:30:52,033 INFO  [Log] **************************************************************************************** 
+2018-10-25 15:30:52,033 INFO  [Log] **************************************************************************************** 
+2018-10-25 15:30:52,033 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 userLoginWithIncorrectCredentials       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-10-25 15:30:52,033 INFO  [Log] **************************************************************************************** 
+2018-10-25 15:30:52,033 INFO  [Log] **************************************************************************************** 
+2018-10-25 15:30:52,979 INFO  [Log] Operation Sendkeys has been performed on element with xpath //*[@id="email"] and rjawade@redstage.com has been entered  
+2018-10-25 15:30:53,773 INFO  [Log] Operation Sendkeys has been performed on element with xpath //*[@id="pass"] and abcfjsahf has been entered  
+2018-10-25 15:30:54,457 ERROR [Log] Operation Click has not been performed on element with xpath //*[@id="send2"] 
